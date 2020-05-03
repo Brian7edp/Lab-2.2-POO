@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Adivine_el_numero.Program">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adivine_el_numero.Juego">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAACIAAAAAAAAAAAAAAAAAAgBIAAAAAAA=</HashCode>
+      <FileName>Juego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adivine_el_numero.Jugada">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAASAAAAAAAQAAAAAAAAAARAAAAAAAAAAAAAAABEAA=</HashCode>
+      <FileName>Jugada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adivine_el_numero.JugadaConAyuda">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>JugadaConAyuda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
