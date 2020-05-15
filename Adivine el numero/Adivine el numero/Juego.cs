@@ -45,8 +45,13 @@ namespace Adivine_el_numero
                 Record = test;
                 Console.WriteLine("Lograste el nuevo record de intentos del juego con " + test + " intentos");
                 Console.WriteLine();
+<<<<<<< HEAD
             }
-        }//y este lo hice en el local
+        }
+=======
+            }//otra linea act en github
+        }
+//y este lo hice en el local
 
         public string Continuar()
         {
