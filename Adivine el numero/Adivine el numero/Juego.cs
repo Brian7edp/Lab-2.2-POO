@@ -27,6 +27,7 @@ namespace Adivine_el_numero
            string op;
             do
             {
+                //prueba para actualizar con git
                 int max = PreguntarMaximo();
                 JugadaConAyuda j = new JugadaConAyuda(max);
                 int num = PreguntarNumero();
