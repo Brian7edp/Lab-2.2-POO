@@ -34,6 +34,7 @@ namespace Adivine_el_numero
                 CompararRecord(i);
                 op = Continuar();
             } while (String.Equals(op, "si"));
+            //aca hago otro comentario en el repo local
         }
 
         public void CompararRecord(int test)
